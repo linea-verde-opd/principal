@@ -34,7 +34,4 @@ plataformas de vuelo, desde el trabajo de la tierra para el desarrollo ecologico
 
 
 
-tratos de servicios
-distribucion puntual sobre lo planificado sobre smart contracts publicos
-
-
+lineas de accion pública e intervencion descentralizada ☺
