@@ -12,8 +12,8 @@ previas (local)
 -Taller de Diseño
 -objetos para el cultivo
 -redes de intercambio semillas, frutos, procesos, composta
--modelos de desarrollo
--fondeo de inyeccion para desarrollo de piloto
+-modelos de desarrollo / clear operation system
+-fondeo de inyeccion para el desarrollo
 
 piloto 1 (regional)
 -intervencion de espacios publicos para el cultivo
@@ -30,7 +30,12 @@ Lanzamiento (capital)
 Ecos (replicas en otros territorios)
 Recontextos (intervenciones perifericas)
 
-plataformas de vuelo, desde el trabajo de la tierra para el desarrollo ecologico
+plataformas de vuelo, desde el trabajo de la tierra para el desarrollo ecologico.
+
+cultivos comunitarios con tecnologia desarrollada
+aprovechamiento de espacios como bajo puentes, y camellones
+soporte para el desarrollo social
+
 
 
 
