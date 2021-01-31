@@ -62,3 +62,6 @@ canales - red
 red - ecosystema
 otros desarrollos
 
+
+flujo de impactos secundarios
+
