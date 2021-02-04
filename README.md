@@ -1,12 +1,11 @@
+# plan de navegación
 
-# principal #plan de navegación
-
-**Este documento sirve para explicar las dinámicas de linea verde
+** Este documento sirve para explicar las dinámicas de linea verde
 
 
 ## Tareas por hacer
   
-**previas 
+** previas 
 
 [] autocultivxs
 
@@ -22,7 +21,7 @@
 
 ## piloto 1 (**regional escala 3 colonias)
 
-[]flujo regular de servicios (ventas, activaciones, intercambios, canalizacion de fondos, monitoreo de transparencia)
+[] flujo regular de servicios (ventas, activaciones, intercambios, canalizacion de fondos, monitoreo de transparencia)
 
 
 [] intervencion de espacios para el cultivo (casas, parques, bajopuentes, recoleccion y manejo local de composta y tierra fertil)
@@ -45,22 +44,22 @@
 
 ### Indices de seguimiento
 
--Lanzamientos territoriales
+- Lanzamientos territoriales
 
--Ecos (replicas)
+- Ecos (replicas)
 
--m2 de cultivos plantandos
+- m2 de cultivos plantandos
 
--indice de masa corporal
+- indice de masa corporal
 
--plazas de trabajo
+- plazas de trabajo
 
--comidas cocinadas
+- comidas cocinadas
 
--procesos de diseño
+- procesos de diseño
 
 
-#sigamos desarrollando las etapas y los indices de impacto.
-*ramifica o [dejanos tus puntos](https://www.instagram.com/linea.verde.opd/).
+### sigamos desarrollando las etapas y los indices de impacto.
+* ramifica o [dejanos tus puntos](https://www.instagram.com/linea.verde.opd/).
 
-Si te interesa saber sobre una agenda de desarrollo que sin duda nos guia, sigue este [link](https://www.onu.org.mx/agenda-2030/)
+Si te interesa conocer alguna guia, sigue este [link](https://www.onu.org.mx/agenda-2030/)
