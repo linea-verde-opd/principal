@@ -1,4 +1,5 @@
 /recurso de alineacion de objetivos
+
 # plan de navegación
 
 ** Este documento sirve para explicar las dinámicas de linea verde
