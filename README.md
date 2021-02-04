@@ -3,9 +3,7 @@
 ** Este documento sirve para explicar las dinámicas de linea verde
 
 
-## Tareas por hacer
-  
-** previas 
+## Tareas por hacer (previas)
 
 [] autocultivxs
 
@@ -15,11 +13,14 @@
 
 [] Modelos de desarrollo / clear operation system
 
-[] Bases fondeo de inyeccion para el desarrollo *piloto 1
+[] Bases fondeo de inyeccion para el desarrollo *piloto 1 (detectar actores clave)
+
+[] capital semilla de yba
+
 
 # proceso
 
-## piloto 1 (**regional escala 3 colonias)
+## piloto 1 (6 meses reunion de fondos)
 
 [] flujo regular de servicios (ventas, activaciones, intercambios, canalizacion de fondos, monitoreo de transparencia)
 
@@ -34,10 +35,15 @@
 
 [] acuerdos habilitados entre agentes clave de la red (lacchain, alianza para el desarrollo social municipal (gob, empresarios, inversores, promotores, ola de crowd)
 
+### meta plan de desarrollo para 3 cocinas, laboratorio de diseño regional, fondo para cultivos, actuasiones inesperadas, redes de intercambio estables y plantilla de trabajo con calendario
 
- *etapa 2 (reposición)
+ ## piloto 1 etapa 2 (aterrizacion local) 
 
- [] servicios de recoleccion de basura (colaboración con servicios públicos)
+ [] sinergia servicios de recoleccion de basura (colaboración con servicios públicos)
+ [] plan ejecución de intervencion publica (mapa/tiempo)
+ 
+ 
+ 
 
 
 
