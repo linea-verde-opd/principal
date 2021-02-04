@@ -19,9 +19,20 @@
 [] capital semilla de yba
 
 
-# proceso
+
 
 ## piloto 1 (6 meses reunion de fondos)
+
+# servicios 
+
+ - Bancos de alimentos locales
+ - Composteros comunitarios
+ - Trueque de autocultivos
+ - Instalacion de espacios de cultivo
+ - Venta de productos para el cultivo
+ - Comedores comunitarios
+ - Procesamiento para la conserva de alimentos
+ 
 
 [] flujo regular de servicios (ventas, activaciones, intercambios, canalizacion de fondos, monitoreo de transparencia)
 
@@ -47,26 +58,26 @@
  [] estabilizacion de smart contract para legitimar acuerdos
 
 
- ## lanzamiento municipal con recursos mixtos 1 año
+ ## lanzamiento municipal con recursos mixtos (1 año)
 
-* municipales - privados 
+[] municipales - privados 
 
 
 ## Indices de seguimiento
 
-- m2 de cultivos plantandos
+- M2 de cultivos plantandos
 
-- balance de masa corporal
+- Balance de masa corporal
 
-- plazas de trabajo generadas
+- Plazas de trabajo generadas
 
-- comidas cocinadas
+- Comidas cocinadas
 
-- espacios intervenidos
+- Espacios intervenidos
 
-- procesos de diseño
+- Procesos de diseño
 
-- kg de tierra fertilizada
+- Kg de tierra fertilizada
 
 - Lanzamientos territoriales
 
@@ -77,7 +88,7 @@
 
 
 ### sigamos desarrollando las etapas y los indices de impacto.
-* ramifica o [dejanos tus puntos](https://www.instagram.com/linea.verde.opd/).
+* Ramifica o [dejanos tus puntos](https://www.instagram.com/linea.verde.opd/).
 
 Si te interesa conocer alguna guia, sigue este [link](https://www.onu.org.mx/agenda-2030/)
 
