@@ -1,6 +1,4 @@
 
-# plan de navegación
-
 # principal #plan de navegación
 
 **Este documento sirve para explicar las dinámicas de linea verde
@@ -51,17 +49,18 @@
 
 -Ecos (replicas)
 
--Recontextos (intervenciones perifericas)
-
 -m2 de cultivos plantandos
 
 -indice de masa corporal
 
--plazas de trabajo 
+-plazas de trabajo
 
 -comidas cocinadas
 
--kg de comida producida
+-procesos de diseño
 
 
-sigamos desarrollando las etapas y los indices de impacto. ramifica o [dejanos tus puntos](https://www.instagram.com/linea.verde.opd/).
+#sigamos desarrollando las etapas y los indices de impacto.
+*ramifica o [dejanos tus puntos](https://www.instagram.com/linea.verde.opd/).
+
+Si te interesa saber sobre una agenda de desarrollo que sin duda nos guia, sigue este [link](https://www.onu.org.mx/agenda-2030/)
