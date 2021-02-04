@@ -47,7 +47,7 @@
 
 [] acuerdos habilitados entre agentes clave de la red (lacchain, alianza para el desarrollo social (gob, alianza de empresarios, inversores, promotores, ola de crowd)
 
-### meta plan de desarrollo para 3 cocinas, laboratorio de diseño regional, fondo para cultivos, actuasiones inesperadas, redes de intercambio estables y plantilla de trabajo con calendario
+### meta plan de desarrollo para 3 cocinas, laboratorio de diseño regional, Soportes para cultivos populares, actuaciones inesperadas, red de intercambio estable y calendario de trabajo con inyeccion de fondos
 
  ## piloto 1 etapa 2 (aterrizacion local) (8 meses)
 
