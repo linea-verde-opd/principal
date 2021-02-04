@@ -1,3 +1,4 @@
+/recurso de alineacion de objetivos
 # plan de navegación
 
 ** Este documento sirve para explicar las dinámicas de linea verde
@@ -33,39 +34,52 @@
 
 [] dispositivos para el manejo de alimentos, cocinas, comedores, bancos de alimentos.
 
-[] acuerdos habilitados entre agentes clave de la red (lacchain, alianza para el desarrollo social municipal (gob, empresarios, inversores, promotores, ola de crowd)
+[] acuerdos habilitados entre agentes clave de la red (lacchain, alianza para el desarrollo social (gob, alianza de empresarios, inversores, promotores, ola de crowd)
 
 ### meta plan de desarrollo para 3 cocinas, laboratorio de diseño regional, fondo para cultivos, actuasiones inesperadas, redes de intercambio estables y plantilla de trabajo con calendario
 
- ## piloto 1 etapa 2 (aterrizacion local) 
+ ## piloto 1 etapa 2 (aterrizacion local) (8 meses)
 
  [] sinergia servicios de recoleccion de basura (colaboración con servicios públicos)
- [] plan ejecución de intervencion publica (mapa/tiempo)
- 
- 
- 
+
+ [] plan y ejecución de intervencion publica de alcance actual (mapa/tiempo)
+
+ [] estabilizacion de smart contract para legitimar acuerdos
 
 
+ ## lanzamiento municipal con recursos mixtos 1 año
+
+* municipales - privados 
 
 
-### Indices de seguimiento
+## Indices de seguimiento
+
+- m2 de cultivos plantandos
+
+- balance de masa corporal
+
+- plazas de trabajo generadas
+
+- comidas cocinadas
+
+- espacios intervenidos
+
+- procesos de diseño
+
+- kg de tierra fertilizada
 
 - Lanzamientos territoriales
 
 - Ecos (replicas)
 
-- m2 de cultivos plantandos
 
-- indice de masa corporal
 
-- plazas de trabajo
-
-- comidas cocinadas
-
-- procesos de diseño
 
 
 ### sigamos desarrollando las etapas y los indices de impacto.
 * ramifica o [dejanos tus puntos](https://www.instagram.com/linea.verde.opd/).
 
 Si te interesa conocer alguna guia, sigue este [link](https://www.onu.org.mx/agenda-2030/)
+
+ 
+ 
