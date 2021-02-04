@@ -1,67 +1,67 @@
 
+# plan de navegación
 
 # principal #plan de navegación
 
-este documento sirve para explicar las dinámicas de linea verde
+**Este documento sirve para explicar las dinámicas de linea verde
 
 
-<Tareas por hacer>
+## Tareas por hacer
   
-previas (local)
--autocultivxs
--Taller de Diseño
--objetos para el cultivo
--redes de intercambio semillas, frutos, procesos, composta (fisicas y digitales)
--modelos de desarrollo / clear operation system
--fondeo de inyeccion para el desarrollo
+**previas 
 
-piloto 1 (regional)
--intervencion de espacios publicos para el cultivo
--flujo regular de servicios 
--reguladores de procesos (smart contracts y otras tecnologías)
--Desarrollo tecnologico y educativo desde paradigmas ecológicos
--cocinas, comedores, bancos de alimentos
+[] autocultivxs
 
-etapa 2 (municipal urbano metropolitano)
--servicios de recoleccion de basura (colaboración con servicios públicos)
+[] Objetos para el cultivo (masestas, prototipo cama, distintivo)
 
+[] Bases red regional digital de intercambio de semillas, frutos, procesos, composta
 
-Lanzamiento 
-Ecos (replicas en otros territorios)
+[] Modelos de desarrollo / clear operation system
 
-Recontextos (intervenciones perifericas)
+[] Bases fondeo de inyeccion para el desarrollo *piloto 1
 
-plataformas de vuelo, desde el trabajo de la tierra para el desarrollo ecologico.
+# proceso
 
-cultivos comunitarios con tecnologia desarrollada
-aprovechamiento de espacios como bajo puentes, y camellones
-soporte para el desarrollo social
+## piloto 1 (**regional escala 3 colonias)
+
+[]flujo regular de servicios (ventas, activaciones, intercambios, canalizacion de fondos, monitoreo de transparencia)
 
 
+[] intervencion de espacios para el cultivo (casas, parques, bajopuentes, recoleccion y manejo local de composta y tierra fertil)
+
+[] reguladores de procesos (smart contracts, sintaxis y otras tecnologías)
+
+[] Desarrollo tecnologico y educativo desde paradigmas ecológicos (procesos de diseño y objetos derivados)
+
+[] dispositivos para el manejo de alimentos, cocinas, comedores, bancos de alimentos.
+
+[] acuerdos habilitados entre agentes clave de la red (lacchain, alianza para el desarrollo social municipal (gob, empresarios, inversores, promotores, ola de crowd)
 
 
-lineas de accion pública e intervencion descentralizada ☺
+ *etapa 2 (reposición)
+
+ [] servicios de recoleccion de basura (colaboración con servicios públicos)
 
 
-acuerdos
-
-con locales de mercados
-con comedores comunitarios
-con bicicargos 
-con piezas del centro de diseño
 
 
-con cosumidores, envio, m2 en autocultivo o cultivo exterior, recoleccion de frutos.
+### Indices de seguimiento
+
+-Lanzamientos territoriales
+
+-Ecos (replicas)
+
+-Recontextos (intervenciones perifericas)
+
+-m2 de cultivos plantandos
+
+-indice de masa corporal
+
+-plazas de trabajo 
+
+-comidas cocinadas
+
+-kg de comida producida
 
 
-residuo organico - composta
-material - pieza
-piezas - catálogo
-catalogos - canales de comunicacion
-canales - red
-red - ecosystema
-otros desarrollos
-
-
-flujo de impactos secundarios
-
+sigamos desarrollando las etapas y los indices de impacto. ramifica o [dejanos tus puntos](https://www.instagram.com/linea.verde.opd/).
