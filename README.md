@@ -127,5 +127,7 @@ Educacion continua
 
 Nos enlazamos a los puntos de accion de la agenda para el desarrollo sostenible y la paz universal [link](https://www.onu.org.mx/agenda-2030/)
 buscando enfoques directos o indirectos para complementar el impacto en los objetivos 6, 7 y 16.
+
+Sigamos mejorando la agenda
  
  
