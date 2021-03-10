@@ -7,7 +7,7 @@
 
 ## Tareas por hacer (previas)
 
-[] autocultivxs /casa mia/ padres/ zuñiga/ Joel/ amix
+[] autocultivxs /casa mia/ padres/ vecinos zuñiga/ amix
 
 [] Entregables (prototipo camas, distintivo arquitectonico, masetas y otros, )
 
